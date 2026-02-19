@@ -542,7 +542,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 4401,
+            "size": 4405,
             "url": "https://github.com/mchdistro/frontline/raw/main/servers/frontline-1.20.1/files/options.txt",
             "path": "options.txt"
           }
@@ -555,6 +555,17 @@
             "size": 1415,
             "url": "https://github.com/mchdistro/frontline/raw/main/servers/frontline-1.20.1/files/optionsof.txt",
             "path": "optionsof.txt"
+          }
+        },
+        {
+          "id": "Frontline item.zip",
+          "name": "Frontline item.zip",
+          "type": "File",
+          "artifact": {
+            "size": 167347,
+            "url": "https://github.com/mchdistro/frontline/raw/main/servers/frontline-1.20.1/files/resourcepacks/Frontline%20item.zip",
+            "MD5": "868d162430629eab8b16fed6f741b99e",
+            "path": "resourcepacks/Frontline item.zip"
           }
         },
         {
